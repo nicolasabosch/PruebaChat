@@ -1,0 +1,12 @@
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\bin\Debug\net9.0\PruebaChat.ServiceDefaults.deps.json
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\bin\Debug\net9.0\PruebaChat.ServiceDefaults.dll
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\bin\Debug\net9.0\PruebaChat.ServiceDefaults.pdb
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\PruebaChat.ServiceDefaults.csproj.AssemblyReference.cache
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\PruebaChat.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\PruebaChat.ServiceDefaults.AssemblyInfoInputs.cache
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\PruebaChat.ServiceDefaults.AssemblyInfo.cs
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\PruebaChat.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\PruebaChat.ServiceDefaults.dll
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\refint\PruebaChat.ServiceDefaults.dll
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\PruebaChat.ServiceDefaults.pdb
+D:\Proyectos\PruebaChat\PruebaChat.ServiceDefaults\obj\Debug\net9.0\ref\PruebaChat.ServiceDefaults.dll
